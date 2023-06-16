@@ -1,5 +1,4 @@
 # Image-Captioning-Translating-Visuals-into-Text-with-the-InceptionV3-Algorithm
-# Deep Learning for Image Understanding: Image Captioning with InceptionV3
 
 ## Description
 This project leverages the power of deep learning to automatically generate captions for images, bridging the gap between computer vision and natural language processing. It uses the InceptionV3 architecture, pre-trained on the ImageNet dataset, as an encoder and a recurrent neural network (RNN) as a decoder.
